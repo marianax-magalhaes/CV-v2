@@ -1,0 +1,143 @@
+/*************TAG************/
+body{
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+h1{
+    margin: 0%;
+    padding-top: 100px;
+    font-family: 'Pacifico', cursive;
+    font-size: 4.375rem;
+    color:#363650;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: #363650;
+}
+
+h3{
+    color:#363650;
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+}
+
+h4{
+    color:#363650;
+    margin-bottom: 0;
+
+}
+
+a:link{
+    color: #B8DFD8;
+}
+
+/*************CLASS************/
+.presentation{
+    margin: 0 20% 0 20%;
+}
+.profile{
+    margin-bottom: 70px;
+}
+.top-container{
+    text-align: center;
+    position: relative;
+    background-color: #E8F6EF;
+}
+.nuvem-cima{
+    position: relative;
+    right: -200px;
+    top: 50px;
+}
+.nuvem-baixo{
+    position: relative;
+    left: -200px;
+    top: -200px;
+    width: 150px;
+}
+.nuvem-perfil{
+    position: relative;
+    top: -42px;
+    left: 78px;
+}
+.perfil{
+    border-radius: 100%;
+    margin-top: 50px;
+}  
+.img-perfil{
+    position: relative;
+    left: -70px;
+}
+.computer{
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+    position: relative;
+    left: 228px;
+    top: 86px;
+ 
+    
+}
+.linguas{
+    width: 200px;
+    height: 100px;
+    border-radius: 10%;
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    left: 30px;
+ 
+
+}
+.birds{
+    width: 300px;
+    position: relative;
+    text-align: center;
+}
+.subtitulo{
+    margin-top: 0px;
+}
+.bottom-container{
+    background-color: #FFE194;
+    padding: 20px;
+    margin-top: 10px;
+}
+.icon{
+    height: 50px;
+    margin: 10px;
+}
+.skills{
+    display: inline-block;
+    margin-bottom: 120px;
+}
+.skill-row1{
+    display: inline-block;
+    position: relative;
+    right: 300px;
+    bottom: 60px;
+}
+
+.texto1{
+    text-align: left;
+    position: relative;
+    left: 250px;
+    top: 82px;
+    display: inline-block;
+}
+.skill-row2{
+    position: relative;
+    left: 400px;
+ 
+}
+.texto2{
+    display: inline-block;
+    position: relative;
+    right: 300px;
+    top: 40px;
+    text-align: left;
+}
